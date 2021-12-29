@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8df4ff96d04d5be13c02ff7a3d4f024c6bcfaeb7",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x8df4ff96d04d5be13c02ff7a3d4f024c6bcfaeb7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PUNKED TEST",
+  "SYMBOL": "TEST",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/punked-test",
+  "SHOW_BACKGROUND": true
+}
